@@ -4,7 +4,7 @@
 
 -configure maven project 
 
--add dependecies
+-add dependencies
 
 -add java folder
 
